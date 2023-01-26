@@ -1,0 +1,15 @@
+{
+  "name": "node-starter",
+  "type": "module",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/plugin-transform-react-jsx": "^7.20.13",
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
